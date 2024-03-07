@@ -1,4 +1,4 @@
-**Python Challenge**: PyBank and PyPoll
+**Python Challenge**: PyBank and PyPoll <br>
 **Project Overview**: This Python project, consisting of PyBank and PyPoll, delves into the analysis of financial and election data sets, respectively. The primary aim is to develop Python scripts capable of processing CSV files, performing calculations, and presenting insightful reports.
 
 PyBank PyBank is dedicated to scrutinizing financial records to derive insights into a company's financial performance. The dataset, named budget_data.csv, features "Date" and "Profit/Losses" columns. The Python script calculates essential financial metrics including:
